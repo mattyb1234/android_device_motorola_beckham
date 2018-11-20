@@ -1,6 +1,6 @@
 Copyright 2018 - The LineageOS Project
 
-Device configuration for Motorola G6 Plus (evert)
+Device configuration for Motorola Z3 Play (beckham)
 ==================================
 
 Basic   | Spec Sheet
